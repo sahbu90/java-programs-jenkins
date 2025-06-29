@@ -6,6 +6,7 @@ public class Main{
 
    System.out.println("class file deleted");
 
-
+   Student st = new Student();
+   st.getHello();
   }
 }
